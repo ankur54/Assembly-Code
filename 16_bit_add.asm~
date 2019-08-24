@@ -1,0 +1,6 @@
+lhld  8000
+xchg 
+lhld  8002
+dad  d
+shld  9000
+hlt 
